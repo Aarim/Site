@@ -1,0 +1,56 @@
+body
+    {
+        background-color: #9eb3c2;
+        margin:0;
+    }
+h1
+    {
+        color: white;
+        text-align: center;
+    }
+p
+    {
+        font-family: verdana;
+        font-size: 20px;
+        color: green;
+    }
+img.logo
+    {
+        margin-top: 7px;
+        margin-left: 2px;
+        width: 10%;
+        height: 10%;
+    }
+.barrasuperior
+    {
+        background-color: #00517c;
+        width:100%;
+        overflow:hidden;
+        margin:0;
+        padding: 0;
+    }
+.barrasuperior ul
+    {
+        margin:0;
+        padding: 0;
+        width: 100%;
+    }
+.barrasuperior ul li
+    {
+        padding: 5px 10px;
+        font-family: verdana;
+        margin-top: 0;
+        display: inline-block;
+    }
+.barrasuperior ul li a
+    {
+        padding: 5px 10px;
+        display: inline-block;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+.barrasuperior ul li a:hover
+    {
+        color: #c36a00;
+    }
