@@ -1,0 +1,51 @@
+@font-face {
+    font-family: gabriola;
+    src: url('/Site/arquivos/fonts/gabriola/Gabriola.ttf')
+  }
+body
+    {
+        background-color: #00517c;
+        margin:0;
+    }
+h1
+    {
+        color: white;
+        text-align: center;
+        font-family: Verdana;
+        margin: 20px;
+        font-size: 60px;
+    }
+h2
+    {
+        color: white;
+        text-align: center;
+        font-family: gabriola;
+        font-size: 50px;
+        margin: 20px;
+    }
+h3
+    {
+        color: white;
+        text-align: center;
+        font-family: Verdana;
+        font-size: 25px;
+        margin: 20px;
+        padding-top: 20px;
+    }
+h3 a
+    {
+        color: #c36a00;
+        text-decoration: none;
+        text-decoration: underline;
+    }
+img
+    {
+        max-width: 30%;
+        min-width: 30%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        width: 50%;
+    }

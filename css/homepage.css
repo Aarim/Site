@@ -11,7 +11,7 @@ h1
     }
 p
     {
-        font-family: verdana;
+        font-family: Helvetica;
         font-size: 20px;
         color: green;
     }
@@ -55,6 +55,13 @@ img.logo
     {
         color: #c36a00;
     }
-#link-logo {
+#link-logo
+{
     padding: 0 20px;
+}
+
+#login
+{
+    position: absolute;
+    right: 0px;
 }
