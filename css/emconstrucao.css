@@ -34,11 +34,23 @@ h3
     }
 h3 a
     {
+        color: #ff8b00;
+        text-decoration: none;
+        text-decoration: underline;
+    }
+h3 a:hover
+    {
         color: #c36a00;
         text-decoration: none;
         text-decoration: underline;
     }
-img
+/* h3 a:visited
+    {
+        color: #663700;
+        text-decoration: none;
+        text-decoration: underline;
+    } */
+img#logo-aarim
     {
         max-width: 30%;
         min-width: 30%;
@@ -48,4 +60,10 @@ img
         margin-right: auto;
         margin-top: 20px;
         width: 50%;
+    }
+img#logo-whatsapp
+    {
+        width: 35px;
+        vertical-align: middle;
+        margin-bottom: 2px;
     }
